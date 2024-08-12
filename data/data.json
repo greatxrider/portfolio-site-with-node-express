@@ -1,0 +1,15 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Project One",
+            "description": "This is the first project.",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://username.github.io/project-one",
+            "github_link": "https://github.com/username/project-one",
+            "image_urls": [
+                
+            ]
+        }
+    ]
+}
