@@ -1,33 +1,37 @@
 extends layout.pug
 
 block content
-
   nav.nav
     a(href='/')
       span &larr;
       |  Back
-
   article.portfolio-about
     .inner-wrapper.flex-row-wrap.two-col
       .about-intro-box.box
-
-        //- Replace with your name
         h1 Jeph Mari Daligdig 
-
-        //- Feel free to personalize the title below
         p Full Stack JavaScript Developer
-
-
         .about-bio
-
-          //- Replace the boilerplate below with your best elevator pitch
-          p This is my elevator pitch. It is the elevator pitch to end all elevator pitches. Your mind is blown. Your mortal brain can scarcely process how well my prior experience maps to your open dev position. 
-
-
+        h2 Work Experience
+        .work-experience
+          h3 Full Stack JavaScript Developer
+          p.duration
+            | **Duration:** Over 1 year
+          .details
+            p.key-responsibilities
+              | **Key Responsibilities:
+              | - Creating high-quality, scalable software solutions using Node.js, Express, and TypeScript.
+              | - Utilizing engineering skills and experience with Python, React, and cloud platforms like Google Cloud and Firebase.
+              | - Solving complex challenges and delivering robust applications that drive business success.
+              | - Mastering a diverse tech stack, including MongoDB, Flask, and Docker.
+            p.achievements
+              | **Achievements:
+              | - Developed efficient solutions for student directory pagination and deployed dynamic web applications on Vercel.
+              | - Demonstrated quick adaptation and innovative problem-solving skills.
+        h2 Summary
+          p.summary
+            | Passionate about continuous learning and growth, with a commitment to delivering top-notch solutions, making me an asset to any team.
       .skills-contact-box.box
         h6 Skills
-
-        //- Replace skills below with your own skills — at this point, you should be able to list as many as ten skills
         ul
           li HTML
           li CSS
@@ -50,19 +54,13 @@ block content
           li MongoDB
           li Mongoose
           li Sequelize
-
         h6 Contact Info
-
-        //- Replace with your own contact info - feel free to use fake information if you prefer
         ul
-          li 555-555-1234
-          li email@email.com
-
-        //- Add URLs to the hrefs below to link to your social media accounts - feel free to use non-personal links to social media home pages if you prefer
+          li +63-975-948-3289
+          li daligdig.jephmari@gmail.com
         a.btn-link(href='') LinkedIn
-        a.btn-link(href='') GitHub
-        a.btn-link(href='') Twitter
-
+        a.btn-link(href='https://github.com/greatxrider') GitHub
+        a.btn-link(href='https://x.com/mrjephdev') Twitter
     nav.nav
       a(href='/')
         span &larr;

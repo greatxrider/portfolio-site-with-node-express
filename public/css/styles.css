@@ -370,3 +370,88 @@ nav a span {
     max-width: 1200px;
   }
 }
+
+.about-bio {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  margin: 20px;
+}
+
+h2 {
+  font-size: 28px;
+  border-bottom: 3px solid #007bff;
+  /* Blue underline for a modern touch */
+  padding-bottom: 10px;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.work-experience {
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-size: 22px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+p {
+  margin: 10px 0;
+  line-height: 1.6;
+}
+
+p.duration {
+  font-weight: 600;
+  color: #555;
+}
+
+.details {
+  margin-left: 20px;
+}
+
+.key-responsibilities,
+.achievements {
+  margin: 10px 0;
+}
+
+.key-responsibilities::before {
+  content: "\2022";
+  /* Bullet point */
+  color: #007bff;
+  /* Blue color for the bullet */
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.achievements::before {
+  content: "\2022";
+  /* Bullet point */
+  color: #28a745;
+  /* Green color for the bullet */
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+
+.summary {
+  font-style: italic;
+}
+
+.additional-skills {
+  margin-top: 20px;
+}
+
+.additional-skills ul {
+  list-style: none;
+  /* Removes default list style */
+  padding: 0;
+  margin: 0;
+}
+
+.additional-skills li {
+  font-size: 16px;
+  margin: 5px 0;
+  line-height: 1.6;
+}
