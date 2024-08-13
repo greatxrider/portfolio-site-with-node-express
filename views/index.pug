@@ -5,14 +5,27 @@ block content
   article.portfolio-intro
 
     //- Replace with your own heading like 'My Portfolio', or 'Hey, Potential Employers', or 'Let's make the web great together!' 
-    h1 Heading
+    h1 Full Stack JavaScript Developer
 
     //- Replace with a description for your portfolio, what this project is, it's purpose, what it's supposed to accomplish, etc. 
-    p Portfolio description
-
+    p 
+      | As a Full Stack JavaScript Developer, this portfolio highlights my work with the MERN stack, showcasing dynamic, responsive web applications. 
+      | It reflects my commitment to delivering high-quality solutions that meet client needs and industry standards.
 
   article.portfolio-project-thumbs
     .projects-box.box.grid
+      .cell
+          a(href='/projects')
+            img.thumbnail(src='https://placehold.it/550x550', alt='')
+            h5 My Site
+      .cell
+          a(href='/projects')
+            img.thumbnail(src='https://placehold.it/550x550', alt='')
+            h5 My Site
+      .cell
+          a(href='/projects')
+            img.thumbnail(src='https://placehold.it/550x550', alt='')
+            h5 My Site
 
       //- Use the Pug `each` iterator to loop over the projects in your data file  
       
@@ -25,4 +38,3 @@ block content
           a(href='#')
             img.thumbnail(src='https://placehold.it/550x550', alt='')
             h5 My Site
-

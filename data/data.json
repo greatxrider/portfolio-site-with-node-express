@@ -2,13 +2,479 @@
     "projects": [
         {
             "id": 0,
-            "project_name": "Project One",
-            "description": "This is the first project.",
-            "technologies": ["HTML", "CSS", "JavaScript"],
-            "live_link": "https://username.github.io/project-one",
-            "github_link": "https://github.com/username/project-one",
+            "project_name": "Adventure Quest",
+            "description": "Fantasy Adventure Quest is a web-based game where users can choose their heroes and target enemies. The game features various hero classes, each with unique combat styles.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://fantasy-adventure-quest-checkbox-dom-pk4hvwag2.vercel.app/",
+            "github_link": "https://github.com/greatxrider/fantasy-adventure-quest-checkbox-dom-man",
             "image_urls": [
-                
+                "/public/img/projects/adventureQuest/aq1.png",
+                "/public/img/projects/adventureQuest/aq2.png"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "Application Form Dynamic",
+            "description": "This project enhances an interactive form with various JavaScript functionalities, such as dynamic display of form fields, real-time validation, and updating the UI based on user input.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://interactive-form-two.vercel.app/",
+            "github_link": "https://github.com/greatxrider/interactive-form-project",
+            "image_urls": [
+                "/public/img/projects/applicationFormDynamic/ap1.png",
+                "/public/img/projects/applicationFormDynamic/ap2.png",
+                "/public/img/projects/applicationFormDynamic/ap3.png"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Bookify Web App",
+            "description": "Bookify is a web application that allows users to discover, manage, and interact with books online. This repository contains the source code for the Bookify website.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "TypeScript",
+                "Bootstrap",
+                "React",
+                "Redux",
+                "NodeJS",
+                "ExpressJS",
+                "MongoDB",
+                "Mongoose",
+                "Vite",
+                "Google Cloud",
+                "FireBase",
+                "Docker",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://github.com/greatxrider/vite-book-ecomm-app",
+            "github_link": "https://github.com/greatxrider/vite-book-ecomm-app",
+            "image_urls": [
+                "/public/img/projects/bookapp/ba1.png",
+                "/public/img/projects/bookapp/ba2.png",
+                "/public/img/projects/bookapp/ba3.png",
+                "/public/img/projects/bookapp/ba4.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Cat Image Generator App",
+            "description": "Cat Explorer is a fun web application that generates random cat images with a single click. Unleash your imagination and create purr-fectly unique cat images effortlessly!",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://cat-image-generator-app.vercel.app/",
+            "github_link": "https://github.com/greatxrider/cat-image-generator",
+            "image_urls": [
+                "/public/img/projects/catgenerator/cg1",
+                "/public/img/projects/catgenerator/cg2",
+                "/public/img/projects/catgenerator/cg3"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Dog and Cats Dynamic Select Menus",
+            "description": "This project implements a dynamic select menu for choosing animals and their respective breeds. The menu updates the available breed options based on the selected animal.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://dogs-cats-dynamic-select-menu.vercel.app",
+            "github_link": "https://github.com/greatxrider/dynamic-select-menu-project",
+            "image_urls": [
+                "/public/img/projects/dogSelectMenus/ds1.png",
+                "/public/img/projects/dogSelectMenus/ds2.png",
+                "/public/img/projects/dogSelectMenus/ds3.png"
+            ]
+        },
+        {
+            "id": 5,
+            "project_name": "Awesome Startup Employee Directory",
+            "description": "The Awesome Startup Employee Directory is a web application designed to help remote employees share contact information efficiently. This project showcases the ability to communicate with APIs to fetch and display dynamic content without relying on frameworks, libraries, or plugins.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://awesome-startup-employee-directory-app.vercel.app",
+            "github_link": "https://github.com/greatxrider/awesome-startup-employee-directory-project",
+            "image_urls": []
+        },
+        {
+            "id": 6,
+            "project_name": "Flags Explorer",
+            "description": "Flag Explorer is a simple web application that displays information about different countries, including their flags, population, region, and capital city. This project aims to provide an easy-to-use interface for users to explore and learn about various countries around the world.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "REST Countries API",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://flag-explorer-app.vercel.app",
+            "github_link": "https://github.com/greatxrider/flag-explorer-app",
+            "image_urls": [
+                "/public/img/projects/flagsExplorer/f1.png",
+                "/public/img/projects/flagsExplorer/f2.png",
+                "/public/img/projects/flagsExplorer/f3.png",
+                "/public/img/projects/flagsExplorer/f4.png"
+            ]
+        },
+        {
+            "id": 7,
+            "project_name": "Flash Cards App",
+            "description": "This application allows users to view flash cards. It includes routes for the main page, about page, and projects page. The app uses Pug as the template engine and serves static files from the public directory.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Pug",
+                "NodeJS",
+                "ExpressJS",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://flash-card-app-beta.vercel.app",
+            "github_link": "https://github.com/greatxrider/flash-card-app",
+            "image_urls": [
+                "/public/img/projects/flashCards/fc1.png",
+                "/public/img/projects/flashCards/fc2.png",
+                "/public/img/projects/flashCards/fc3.png"
+            ]
+        },
+        {
+            "id": 8,
+            "project_name": "Food Recipe App",
+            "description": "Food App is a simple web application that displays various recipes, including their ingredients, preparation steps, and images. This project aims to provide an easy-to-use interface for users to explore and learn about different recipes from around the world.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "SASS",
+                "JavaScript",
+                "Boostrap",
+                "Vercel",
+                "Git",
+                "FireBase",
+                "Google Cloud"
+            ],
+            "live_link": "https://jeph-food-recipt-web-project.web.app",
+            "github_link": "https://github.com/greatxrider/food-recipe-app",
+            "image_urls": [
+                "/public/img/projects/foodie/fd1.png",
+                "/public/img/projects/foodie/fd2.png",
+                "/public/img/projects/foodie/fd3.png"
+            ]
+        },
+        {
+            "id": 9,
+            "project_name": "News App",
+            "description": "News App is a simple web application that fetches and displays news articles using the News API. This project aims to provide an easy-to-use interface for users to stay updated with the latest news in the science category from the US.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "SASS",
+                "JavaScript",
+                "Boostrap",
+                "Vercel",
+                "Git",
+                "FireBase",
+                "Google Cloud"
+            ],
+            "live_link": "https://newsletterinternational.web.app",
+            "github_link": "https://github.com/greatxrider/News-App",
+            "image_urls": [
+                "/public/img/projects/newsapp/n1.png",
+                "/public/img/projects/newsapp/n2.png",
+                "/public/img/projects/newsapp/n3.png",
+                "/public/img/projects/newsapp/n4.png"
+            ]
+        },
+        {
+            "id": 10,
+            "project_name": "NuCampsite React",
+            "description": "Nucampsite is a web application built with React that provides information about various campsites, including their details, partners, promotions, and comments. This project aims to offer an easy-to-use interface for users to explore and learn about different campsites.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Bootstrap",
+                "React",
+                "Redux",
+                "Webpack",
+                "Google Cloud",
+                "FireBase",
+                "Docker",
+                "Git"
+            ],
+            "live_link": "https://react-deploy-test-422217.web.app/",
+            "github_link": "https://github.com/greatxrider/nucamp-react-challenges/tree/main/Projects/nucampfire-react",
+            "image_urls": [
+                "/public/img/projects/bookapp/ba1.png",
+                "/public/img/projects/bookapp/ba2.png",
+                "/public/img/projects/bookapp/ba3.png",
+                "/public/img/projects/bookapp/ba4.png"
+            ]
+        },
+        {
+            "id": 11,
+            "project_name": "NuCampsite React Native",
+            "description": "This is a React Native application for Nucampsite.",
+            "technologies": [
+                "React Native",
+                "StyleSheet",
+                "Expo",
+                "JavaScript",
+                "JSX",
+                "Redux",
+                "Reactstrap",
+                "Firebase",
+                "Google Cloud",
+                "Git",
+                "GitHub",
+                "Android Studio"
+            ],
+            "live_link": "https://github.com/greatxrider/nucamp-react-native-challenges/tree/main/Challenges/nucampfire",
+            "github_link": "https://github.com/greatxrider/nucamp-react-native-challenges/tree/main/Challenges/nucampfire",
+            "image_urls": [
+                "/public/img/projects/nucampsite_react_native/rn1.png",
+                "/public/img/projects/nucampsite_react_native/rn2.png",
+                "/public/img/projects/nucampsite_react_native/rn3.png",
+                "/public/img/projects/nucampsite_react_native/rn4.png"
+            ]
+        },
+        {
+            "id": 12,
+            "project_name": "NuCampsite Vanilla JS",
+            "description": "This is a vanilla JavaScript application for Nucampsite.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Bootstrap",
+                "Firebase",
+                "Google Cloud"
+            ],
+            "live_link": "https://jeph-nucampsite.web.app/",
+            "github_link": "https://github.com/greatxrider/nucamp-react-challenges/tree/main/Projects/nucampsite",
+            "image_urls": [
+                "/public/img/projects/nucampsite_vanillaJS/nv1.png",
+                "/public/img/projects/nucampsite_vanillaJS/nv2.png",
+                "/public/img/projects/nucampsite_vanillaJS/nv3.png"
+            ]
+        },
+        {
+            "id": 13,
+            "project_name": "Number Multiplier",
+            "description": "A number multiplier app using Node.js, Express, and Pug for templating.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "NodeJS",
+                "ExpressJS",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://github.com/greatxrider/number-multiplier-express",
+            "github_link": "https://number-multiplier-express-node.vercel.app/",
+            "image_urls": [
+                "/public/img/projects/numberMultiplier/nm1.png"
+            ]
+        },
+        {
+            "id": 14,
+            "project_name": "People From Space",
+            "description": "People From Space App is a simple web application that displays the number of people currently in space. It provides a button to view detailed information about each person in space. The application uses HTML, CSS, and JavaScript to fetch and display the data.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://number-multiplier-express-node.vercel.app",
+            "github_link": "https://github.com/greatxrider/people-from-space-app",
+            "image_urls": [
+                "/public/img/projects/peopleInSpace/p1.png",
+                "/public/img/projects/peopleInSpace/p2.png"
+            ]
+        },
+        {
+            "id": 15,
+            "project_name": "Phrase Hunter",
+            "description": "This is a phrase hunter game. It uses JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://phrase-hunter-game-app.vercel.app/",
+            "github_link": "https://github.com/greatxrider/phrase-hunter-project",
+            "image_urls": [
+                "/public/img/projects/phraseHunter/ph1.png",
+                "/public/img/projects/phraseHunter/ph2.png",
+                "/public/img/projects/phraseHunter/ph3.png"
+            ]
+        },
+        {
+            "id": 16,
+            "project_name": "My Personal Portfolio (The IT Guy)",
+            "description": "This is my main portfolio website. Showcasing my skills. It's on Full Stack to practice my skills.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "TypeScript",
+                "Bootstrap",
+                "React",
+                "Redux",
+                "NodeJS",
+                "ExpressJS",
+                "MongoDB",
+                "Mongoose",
+                "Vite",
+                "Google Cloud",
+                "FireBase",
+                "Docker",
+                "Git"
+            ],
+            "live_link": "https://github.com/greatxrider/my-portfolio",
+            "github_link": "https://github.com/greatxrider/my-portfolio",
+            "image_urls": [
+                "/public/img/projects/portfolio/mp1.png",
+                "/public/img/projects/portfolio/mp2.png",
+                "/public/img/projects/portfolio/mp3.png",
+                "/public/img/projects/portfolio/mp4.png",
+                "/public/img/projects/portfolio/mp5.png",
+                "/public/img/projects/portfolio/mp6.png"
+            ]
+        },
+        {
+            "id": 17,
+            "project_name": "Random Quote Generator",
+            "description": "This project is a simple web application that generates random quotes each time a button is clicked. It's built using basic JavaScript concepts including variables, loops, conditionals, and object literals. The goal is to create an interactive portfolio piece showcasing foundational JavaScript skills.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://random-quote-generator-blue-delta.vercel.app/",
+            "github_link": "https://github.com/greatxrider/random-quote-generator",
+            "image_urls": [
+                "/public/img/projects/randomquotegenerator/rc1.png",
+                "/public/img/projects/randomquotegenerator/rc2.png",
+                "/public/img/projects/randomquotegenerator/rc3.png",
+                "/public/img/projects/randomquotegenerator/rc4.png"
+            ]
+        },
+        {
+            "id": 18,
+            "project_name": "RSVP Web App",
+            "description": "This is a simple RSVP web application built using vanilla JavaScript, HTML, and CSS. It allows users to manage a guest list for an event.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://rvsp-webapp-vanilla-javascript.vercel.app/",
+            "github_link": "https://github.com/greatxrider/rvsp-webapp-vanilla-javascript",
+            "image_urls": [
+                "/public/img/projects/rvsp_app/rv1.png"
+            ]
+        },
+        {
+            "id": 19,
+            "project_name": "Student Directory",
+            "description": "This project implements pagination and search functionality for a student directory web application using JavaScript. Users can navigate through pages of student data and search for specific students by name.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://student-directory-app.vercel.app/",
+            "github_link": "https://github.com/greatxrider/student-directory-project",
+            "image_urls": [
+                "/public/img/projects/studentDirectory/std1.png",
+                "/public/img/projects/studentDirectory/std2.png",
+                "/public/img/projects/studentDirectory/std3.png"
+            ]
+        },
+        {
+            "id": 20,
+            "project_name": "To-Do List Redux",
+            "description": "This is a simple Todo List application built using Vanilla JavaScript. It allows users to add, remove, and toggle tasks on their list.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "Vercel",
+                "Git"
+            ],
+            "live_link": "https://todo-list-app-mu-blush.vercel.app/",
+            "github_link": "https://github.com/greatxrider/todolist-vanilla-javasript",
+            "image_urls": [
+                "/public/img/projects/toDoList/td1.png"
+            ]
+        },
+        {
+            "id": 21,
+            "project_name": "Yvonne's Portfolio",
+            "description": "This is a portfolio from my client Yvonne.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "TypeScript",
+                "Bootstrap",
+                "React",
+                "Redux",
+                "NodeJS",
+                "ExpressJS",
+                "MongoDB",
+                "Mongoose",
+                "Vite",
+                "Google Cloud",
+                "FireBase",
+                "Docker",
+                "Git"
+            ],
+            "live_link": "https://github.com/greatxrider/yvonne-portfolio/tree/main/client",
+            "github_link": "https://github.com/greatxrider/yvonne-portfolio/tree/main/client",
+            "image_urls": [
+                "/public/img/projects/yvonne/yv1.png",
+                "/public/img/projects/yvonne/yv2.png",
+                "/public/img/projects/yvonne/yv3.png"
             ]
         }
     ]
