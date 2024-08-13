@@ -10,6 +10,7 @@ const projectRouter = require('./routes/projects');
 const data = require('./data/data.json');
 
 const app = express();
+const PORT = process.env.PORT || 8000;
 
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
@@ -43,8 +44,6 @@ app.use((err, req, res, next) => {
     res.status(err.status || 500);
     res.render('error');
 });
-
-const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);

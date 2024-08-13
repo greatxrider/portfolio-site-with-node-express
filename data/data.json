@@ -14,8 +14,8 @@
             "live_link": "https://fantasy-adventure-quest-checkbox-dom-pk4hvwag2.vercel.app/",
             "github_link": "https://github.com/greatxrider/fantasy-adventure-quest-checkbox-dom-man",
             "image_urls": [
-                "/public/img/projects/adventureQuest/aq1.png",
-                "/public/img/projects/adventureQuest/aq2.png"
+                "/img/projects/adventureQuest/aq1.png",
+                "/img/projects/adventureQuest/aq2.png"
             ]
         },
         {
@@ -32,9 +32,9 @@
             "live_link": "https://interactive-form-two.vercel.app/",
             "github_link": "https://github.com/greatxrider/interactive-form-project",
             "image_urls": [
-                "/public/img/projects/applicationFormDynamic/ap1.png",
-                "/public/img/projects/applicationFormDynamic/ap2.png",
-                "/public/img/projects/applicationFormDynamic/ap3.png"
+                "/img/projects/applicationFormDynamic/ap1.png",
+                "/img/projects/applicationFormDynamic/ap2.png",
+                "/img/projects/applicationFormDynamic/ap3.png"
             ]
         },
         {
@@ -63,10 +63,10 @@
             "live_link": "https://github.com/greatxrider/vite-book-ecomm-app",
             "github_link": "https://github.com/greatxrider/vite-book-ecomm-app",
             "image_urls": [
-                "/public/img/projects/bookapp/ba1.png",
-                "/public/img/projects/bookapp/ba2.png",
-                "/public/img/projects/bookapp/ba3.png",
-                "/public/img/projects/bookapp/ba4.png"
+                "/img/projects/bookapp/ba1.png",
+                "/img/projects/bookapp/ba2.png",
+                "/img/projects/bookapp/ba3.png",
+                "/img/projects/bookapp/ba4.png"
             ]
         },
         {
@@ -83,9 +83,9 @@
             "live_link": "https://cat-image-generator-app.vercel.app/",
             "github_link": "https://github.com/greatxrider/cat-image-generator",
             "image_urls": [
-                "/public/img/projects/catgenerator/cg1",
-                "/public/img/projects/catgenerator/cg2",
-                "/public/img/projects/catgenerator/cg3"
+                "/img/projects/catgenerator/cg1.png",
+                "/img/projects/catgenerator/cg2.png",
+                "/img/projects/catgenerator/cg3.png"
             ]
         },
         {
@@ -102,9 +102,9 @@
             "live_link": "https://dogs-cats-dynamic-select-menu.vercel.app",
             "github_link": "https://github.com/greatxrider/dynamic-select-menu-project",
             "image_urls": [
-                "/public/img/projects/dogSelectMenus/ds1.png",
-                "/public/img/projects/dogSelectMenus/ds2.png",
-                "/public/img/projects/dogSelectMenus/ds3.png"
+                "/img/projects/dogSelectMenus/ds1.png",
+                "/img/projects/dogSelectMenus/ds2.png",
+                "/img/projects/dogSelectMenus/ds3.png"
             ]
         },
         {
@@ -120,7 +120,12 @@
             ],
             "live_link": "https://awesome-startup-employee-directory-app.vercel.app",
             "github_link": "https://github.com/greatxrider/awesome-startup-employee-directory-project",
-            "image_urls": []
+            "image_urls": [
+                "/img/projects/employeeDirectory/sd1.png",
+                "/img/projects/employeeDirectory/sd2.png",
+                "/img/projects/employeeDirectory/sd3.png",
+                "/img/projects/employeeDirectory/sd4.png"
+            ]
         },
         {
             "id": 6,
@@ -137,10 +142,10 @@
             "live_link": "https://flag-explorer-app.vercel.app",
             "github_link": "https://github.com/greatxrider/flag-explorer-app",
             "image_urls": [
-                "/public/img/projects/flagsExplorer/f1.png",
-                "/public/img/projects/flagsExplorer/f2.png",
-                "/public/img/projects/flagsExplorer/f3.png",
-                "/public/img/projects/flagsExplorer/f4.png"
+                "/img/projects/flagsExplorer/f1.png",
+                "/img/projects/flagsExplorer/f2.png",
+                "/img/projects/flagsExplorer/f3.png",
+                "/img/projects/flagsExplorer/f4.png"
             ]
         },
         {
@@ -160,9 +165,9 @@
             "live_link": "https://flash-card-app-beta.vercel.app",
             "github_link": "https://github.com/greatxrider/flash-card-app",
             "image_urls": [
-                "/public/img/projects/flashCards/fc1.png",
-                "/public/img/projects/flashCards/fc2.png",
-                "/public/img/projects/flashCards/fc3.png"
+                "/img/projects/flashCards/fc1.png",
+                "/img/projects/flashCards/fc2.png",
+                "/img/projects/flashCards/fc3.png"
             ]
         },
         {
@@ -183,9 +188,9 @@
             "live_link": "https://jeph-food-recipt-web-project.web.app",
             "github_link": "https://github.com/greatxrider/food-recipe-app",
             "image_urls": [
-                "/public/img/projects/foodie/fd1.png",
-                "/public/img/projects/foodie/fd2.png",
-                "/public/img/projects/foodie/fd3.png"
+                "/img/projects/foodie/fd1.png",
+                "/img/projects/foodie/fd2.png",
+                "/img/projects/foodie/fd3.png"
             ]
         },
         {
@@ -206,10 +211,10 @@
             "live_link": "https://newsletterinternational.web.app",
             "github_link": "https://github.com/greatxrider/News-App",
             "image_urls": [
-                "/public/img/projects/newsapp/n1.png",
-                "/public/img/projects/newsapp/n2.png",
-                "/public/img/projects/newsapp/n3.png",
-                "/public/img/projects/newsapp/n4.png"
+                "/img/projects/newsapp/n1.png",
+                "/img/projects/newsapp/n2.png",
+                "/img/projects/newsapp/n3.png",
+                "/img/projects/newsapp/n4.png"
             ]
         },
         {
@@ -232,10 +237,10 @@
             "live_link": "https://react-deploy-test-422217.web.app/",
             "github_link": "https://github.com/greatxrider/nucamp-react-challenges/tree/main/Projects/nucampfire-react",
             "image_urls": [
-                "/public/img/projects/bookapp/ba1.png",
-                "/public/img/projects/bookapp/ba2.png",
-                "/public/img/projects/bookapp/ba3.png",
-                "/public/img/projects/bookapp/ba4.png"
+                "/img/projects/bookapp/ba1.png",
+                "/img/projects/bookapp/ba2.png",
+                "/img/projects/bookapp/ba3.png",
+                "/img/projects/bookapp/ba4.png"
             ]
         },
         {
@@ -259,10 +264,10 @@
             "live_link": "https://github.com/greatxrider/nucamp-react-native-challenges/tree/main/Challenges/nucampfire",
             "github_link": "https://github.com/greatxrider/nucamp-react-native-challenges/tree/main/Challenges/nucampfire",
             "image_urls": [
-                "/public/img/projects/nucampsite_react_native/rn1.png",
-                "/public/img/projects/nucampsite_react_native/rn2.png",
-                "/public/img/projects/nucampsite_react_native/rn3.png",
-                "/public/img/projects/nucampsite_react_native/rn4.png"
+                "/img/projects/nucampsite_react_native/rn1.png",
+                "/img/projects/nucampsite_react_native/rn2.png",
+                "/img/projects/nucampsite_react_native/rn3.png",
+                "/img/projects/nucampsite_react_native/rn4.png"
             ]
         },
         {
@@ -280,9 +285,9 @@
             "live_link": "https://jeph-nucampsite.web.app/",
             "github_link": "https://github.com/greatxrider/nucamp-react-challenges/tree/main/Projects/nucampsite",
             "image_urls": [
-                "/public/img/projects/nucampsite_vanillaJS/nv1.png",
-                "/public/img/projects/nucampsite_vanillaJS/nv2.png",
-                "/public/img/projects/nucampsite_vanillaJS/nv3.png"
+                "/img/projects/nucampsite_vanillaJS/nv1.png",
+                "/img/projects/nucampsite_vanillaJS/nv2.png",
+                "/img/projects/nucampsite_vanillaJS/nv3.png"
             ]
         },
         {
@@ -301,7 +306,7 @@
             "live_link": "https://github.com/greatxrider/number-multiplier-express",
             "github_link": "https://number-multiplier-express-node.vercel.app/",
             "image_urls": [
-                "/public/img/projects/numberMultiplier/nm1.png"
+                "/img/projects/numberMultiplier/nm1.png"
             ]
         },
         {
@@ -318,8 +323,8 @@
             "live_link": "https://number-multiplier-express-node.vercel.app",
             "github_link": "https://github.com/greatxrider/people-from-space-app",
             "image_urls": [
-                "/public/img/projects/peopleInSpace/p1.png",
-                "/public/img/projects/peopleInSpace/p2.png"
+                "/img/projects/peopleInSpace/p1.png",
+                "/img/projects/peopleInSpace/p2.png"
             ]
         },
         {
@@ -336,9 +341,9 @@
             "live_link": "https://phrase-hunter-game-app.vercel.app/",
             "github_link": "https://github.com/greatxrider/phrase-hunter-project",
             "image_urls": [
-                "/public/img/projects/phraseHunter/ph1.png",
-                "/public/img/projects/phraseHunter/ph2.png",
-                "/public/img/projects/phraseHunter/ph3.png"
+                "/img/projects/phraseHunter/ph1.png",
+                "/img/projects/phraseHunter/ph2.png",
+                "/img/projects/phraseHunter/ph3.png"
             ]
         },
         {
@@ -366,12 +371,12 @@
             "live_link": "https://github.com/greatxrider/my-portfolio",
             "github_link": "https://github.com/greatxrider/my-portfolio",
             "image_urls": [
-                "/public/img/projects/portfolio/mp1.png",
-                "/public/img/projects/portfolio/mp2.png",
-                "/public/img/projects/portfolio/mp3.png",
-                "/public/img/projects/portfolio/mp4.png",
-                "/public/img/projects/portfolio/mp5.png",
-                "/public/img/projects/portfolio/mp6.png"
+                "/img/projects/portfolio/mp1.png",
+                "/img/projects/portfolio/mp2.png",
+                "/img/projects/portfolio/mp3.png",
+                "/img/projects/portfolio/mp4.png",
+                "/img/projects/portfolio/mp5.png",
+                "/img/projects/portfolio/mp6.png"
             ]
         },
         {
@@ -388,10 +393,10 @@
             "live_link": "https://random-quote-generator-blue-delta.vercel.app/",
             "github_link": "https://github.com/greatxrider/random-quote-generator",
             "image_urls": [
-                "/public/img/projects/randomquotegenerator/rc1.png",
-                "/public/img/projects/randomquotegenerator/rc2.png",
-                "/public/img/projects/randomquotegenerator/rc3.png",
-                "/public/img/projects/randomquotegenerator/rc4.png"
+                "/img/projects/randomquotegenerator/rc1.png",
+                "/img/projects/randomquotegenerator/rc2.png",
+                "/img/projects/randomquotegenerator/rc3.png",
+                "/img/projects/randomquotegenerator/rc4.png"
             ]
         },
         {
@@ -408,7 +413,7 @@
             "live_link": "https://rvsp-webapp-vanilla-javascript.vercel.app/",
             "github_link": "https://github.com/greatxrider/rvsp-webapp-vanilla-javascript",
             "image_urls": [
-                "/public/img/projects/rvsp_app/rv1.png"
+                "/img/projects/rvsp_app/rv1.png"
             ]
         },
         {
@@ -425,9 +430,9 @@
             "live_link": "https://student-directory-app.vercel.app/",
             "github_link": "https://github.com/greatxrider/student-directory-project",
             "image_urls": [
-                "/public/img/projects/studentDirectory/std1.png",
-                "/public/img/projects/studentDirectory/std2.png",
-                "/public/img/projects/studentDirectory/std3.png"
+                "/img/projects/studentDirectory/std1.png",
+                "/img/projects/studentDirectory/std2.png",
+                "/img/projects/studentDirectory/std3.png"
             ]
         },
         {
@@ -444,7 +449,7 @@
             "live_link": "https://todo-list-app-mu-blush.vercel.app/",
             "github_link": "https://github.com/greatxrider/todolist-vanilla-javasript",
             "image_urls": [
-                "/public/img/projects/toDoList/td1.png"
+                "/img/projects/toDoList/td1.png"
             ]
         },
         {
@@ -472,9 +477,9 @@
             "live_link": "https://github.com/greatxrider/yvonne-portfolio/tree/main/client",
             "github_link": "https://github.com/greatxrider/yvonne-portfolio/tree/main/client",
             "image_urls": [
-                "/public/img/projects/yvonne/yv1.png",
-                "/public/img/projects/yvonne/yv2.png",
-                "/public/img/projects/yvonne/yv3.png"
+                "/img/projects/yvonne/yv1.png",
+                "/img/projects/yvonne/yv2.png",
+                "/img/projects/yvonne/yv3.png"
             ]
         }
     ]
