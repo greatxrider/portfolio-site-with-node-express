@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "NuCampsite in Vanilla JS",
-            "description": "This is a vanilla JavaScript application for Nucampsite.",
+            "description": "This is a comprehensive vanilla JavaScript application developed for NuCampsite. The application allows users to explore various campsites, view detailed information about each site, and make reservations. Key features include user authentication for secure login and registration, a searchable list of available campsites with detailed descriptions and images, and the ability to book and manage reservations. Additionally, users can leave reviews and ratings for campsites they have visited. The application also integrates with map services to provide location-based services and directions, and offers offline access to campsite information. Technologies used in this project include vanilla JavaScript, HTML, CSS, and various third-party APIs for enhanced functionality.",
             "technologies": [
                 {
                     "name": "HTML",
@@ -100,7 +100,7 @@
         {
             "id": 2,
             "project_name": "NuCampsite React Native",
-            "description": "This is a React Native application for Nucampsite.",
+            "description": "This is a comprehensive React Native application developed for NuCampsite. The application allows users to explore various campsites, view detailed information about each site, and make reservations.",
             "technologies": [
                 {
                     "name": "HTML5",
@@ -970,7 +970,28 @@
             "id": 21,
             "project_name": "To-Do List Redux",
             "description": "This is a simple Todo List application built using Vanilla JavaScript. It allows users to add, remove, and toggle tasks on their list.",
-            "technologies": [],
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
+            ],
             "live_link": "https://todo-list-app-mu-blush.vercel.app/",
             "github_link": "https://github.com/greatxrider/todolist-vanilla-javasript",
             "image_urls": [
