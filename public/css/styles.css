@@ -19,15 +19,15 @@ body {
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
-  color: #0a0a0a;
+  color: #03346E;
   background: #fefefe;
-  background: #000;
+  background: #021526;
   transform: translateX(0px);
   transition: all 0.4s ease-out;
 }
 
 article {
-  background: #fefefe;
+  background: #f8f8e1;
 }
 
 h1,
@@ -67,7 +67,7 @@ a {
   min-width: 320px;
   height: 100%;
   min-height: 100%;
-  background: #fefefe;
+  background: #f8f8e1;
 }
 
 .flex-row-wrap {
@@ -86,7 +86,7 @@ a {
   width: 100%;
   max-width: 1200px;
   padding: 40px 50px 30px;
-  background: #fefefe;
+  background: #f8f8e1;
   border-bottom: 1px solid #eaeaea;
 }
 
@@ -112,7 +112,9 @@ a {
 nav {
   width: 100%;
   padding: 20px;
-  border-bottom: 1px solid #eaeaea;
+  border-bottom: 1px solid #6c6c6c;
+  border-top: 1px solid #6c6c6c;
+  background-color: #FFFFFF;
 }
 
 nav a {
@@ -123,7 +125,15 @@ nav a {
   font-size: 13px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555;
+  color: #03346E;
+}
+
+nav a:hover {
+  color: #E2E2B6;
+}
+
+nav a:active {
+  color: #E2E2B6;
 }
 
 nav a span {
@@ -141,7 +151,7 @@ nav a span {
   height: 100%;
   min-height: 100%;
   padding: 20px;
-  background: #000;
+  background: #021526;
 }
 
 .sidebar-info-box {
@@ -163,7 +173,7 @@ nav a span {
 }
 
 .sidebar h5 {
-  color: #fefefe;
+  color: #E2E2B6;
   margin: 0 auto 0.5rem;
 }
 
@@ -180,7 +190,12 @@ nav a span {
   font-size: 13px;
   letter-spacing: 2.5px;
   text-transform: uppercase;
-  color: #555;
+  color: #E2E2B6;
+}
+
+.sidebar a:hover {
+  color: #FFFFFF;
+  /* Brighter color on hover */
 }
 
 .header {
@@ -189,7 +204,7 @@ nav a span {
   height: 40px;
   padding: 0.5rem;
   background: #0a0a0a;
-  border-left: 1px solid #0a0a0a;
+  border-left: 1px solid #962525;
 }
 
 .header span {
@@ -229,11 +244,12 @@ nav a span {
 .portfolio-intro {
   max-width: 1200px;
   padding: 40px 50px 30px;
+  background-color: #f8f8e1;
 }
 
 .portfolio-intro h1 {
   font-size: 1.5rem;
-  color: #0a0a0a;
+  color: #03346E;
   margin: 0 auto 8px;
 }
 
@@ -303,10 +319,24 @@ nav a span {
   max-width: 255px;
   margin: auto 0 5px 0;
   padding: 0.85em 1em;
-  background-color: #333;
+  background-color: #03346E;
   border: 1px solid transparent;
+  transition: background-color 0.3s, color 0.3s;
 }
 
+.btn-link:hover {
+  background-color: #E2E2B6;
+  /* Background color on hover */
+  color: #03346E;
+  /* Text color on hover */
+}
+
+.btn-link:active {
+  background-color: #B0B0A0;
+  /* Background color on click */
+  color: #03346E;
+  /* Text color on click */
+}
 
 /* 
   Tablet layout styles 
@@ -454,4 +484,86 @@ p.duration {
   font-size: 16px;
   margin: 5px 0;
   line-height: 1.6;
+}
+
+/* Custom Styling */
+
+/* Base styles for the cell */
+.cell {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.9s, box-shadow 0.9s;
+  text-align: center;
+}
+
+/* Hover effect */
+.cell:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #6EACDA;
+  transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+}
+
+/* Click effect */
+.cell:active {
+  transform: scale(0.95);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(2px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+#my-info.sidebar {
+  animation: fadeIn 0.5s ease-out;
+}
+
+#my-info.sidebar .sidebar-info-box,
+#my-info.sidebar .thumbnail-box,
+#my-info.sidebar .dev-intro-box,
+#my-info.sidebar .dev-intro-box h5,
+#my-info.sidebar .dev-intro-box p,
+#my-info.sidebar .dev-intro-box a {
+  animation: fadeIn 0.5s ease-out;
+  animation-delay: 0.2s;
+  animation-fill-mode: both;
+}
+
+article.portfolio-intro {
+  animation: fadeIn 0.2s ease-out;
+}
+
+article.portfolio-intro h1,
+article.portfolio-intro p {
+  animation: fadeIn 0.2s ease-out;
+  animation-delay: 0.4s;
+  animation-fill-mode: both;
+}
+
+article.portfolio-project-thumbs .cell {
+  opacity: 0;
+  /* Ensure elements are initially hidden */
+  animation: fadeIn 1s ease-out forwards;
+}
+
+footer.footer {
+  text-align: center;
+  padding: 10px 0;
+  background-color: #f8f9fa;
+  /* Light background for footer */
+  border-top: 1px solid #e9ecef;
+  /* Subtle border at the top */
+  position: relative;
+  bottom: 0;
+  width: 100%;
 }

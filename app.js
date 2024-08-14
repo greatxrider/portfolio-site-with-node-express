@@ -4,47 +4,74 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const cookieParser = require('cookie-parser');
 const logger = require('morgan');
+
+// Routers
 const mainRouter = require('./routes/index');
 const aboutRouter = require('./routes/about');
 const projectRouter = require('./routes/projects');
+
+// Data
 const data = require('./data/data.json');
 
+// Initialize Express Application
 const app = express();
 const PORT = process.env.PORT || 8000;
 
-// view engine setup
+// View engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'pug');
 
-// Serve static files from the 'public' directory
+/**
+ * Middleware setup
+ */
 app.use(express.static(path.join(__dirname, 'public')));
-
 app.use(logger('dev'));
 app.use(cookieParser());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-//routers
+/**
+ * Routers
+ */
 app.use(mainRouter);
 app.use('/about', aboutRouter);
 app.use('/projects', projectRouter);
 
-// catch 404 and forward to error handler
+/**
+ * Error handling
+ * Catches 404 errors and forwards to error handler
+ */
 app.use((req, res, next) => {
-    next(createError(404));
+    const err = new Error('Not Found');
+    err.status = 404;
+    console.error(`Error ${err.status}: ${err.message}`);
+    res.render('page-not-found', { message: err.message, error: err });
 });
 
-// error handler
+/**
+ * Error handling middleware
+ * @param {Error} err - The error object
+ * @param {Request} req - The request object
+ * @param {Response} res - The response object
+ * @param {Function} next - The next middleware function
+ */
 app.use((err, req, res, next) => {
-    // set locals, only providing error in development
+    err.status = err.status || 500;
+    err.message = err.message || 'Internal Server Error';
+
+    console.error(`Error ${err.status}: ${err.message}`);
+
     res.locals.message = err.message;
     res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-    // render the error page
-    res.status(err.status || 500);
-    res.render('error');
+    res.status(err.status);
+    res.render('error', { message: err.message, error: err });
 });
 
+/**
+ * Starts the server
+ * @param {number} PORT - The port number
+ */
 app.listen(PORT, () => {
     console.log(`Server is running on port ${PORT}`);
 });
