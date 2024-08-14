@@ -5,12 +5,30 @@
             "project_name": "NuCampsite in Vanilla JS",
             "description": "This is a vanilla JavaScript application for Nucampsite.",
             "technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Bootstrap",
-                "Firebase",
-                "Google Cloud"
+                {
+                    "name": "HTML",
+                    "badge": "https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS",
+                    "badge": "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://jeph-nucampsite.web.app/",
             "github_link": "https://github.com/greatxrider/nucamp-react-challenges/tree/main/Projects/nucampsite",
@@ -25,17 +43,50 @@
             "project_name": "NuCampsite in React",
             "description": "Nucampsite is a web application built with React that provides information about various campsites, including their details, partners, promotions, and comments. This project aims to offer an easy-to-use interface for users to explore and learn about different campsites.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Bootstrap",
-                "React",
-                "Redux",
-                "Webpack",
-                "Google Cloud",
-                "FireBase",
-                "Docker",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Webpack",
+                    "badge": "https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Docker",
+                    "badge": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://react-deploy-test-422217.web.app/",
             "github_link": "https://github.com/greatxrider/nucamp-react-challenges/tree/main/Projects/nucampfire-react",
@@ -51,18 +102,58 @@
             "project_name": "NuCampsite React Native",
             "description": "This is a React Native application for Nucampsite.",
             "technologies": [
-                "React Native",
-                "StyleSheet",
-                "Expo",
-                "JavaScript",
-                "JSX",
-                "Redux",
-                "Reactstrap",
-                "Firebase",
-                "Google Cloud",
-                "Git",
-                "GitHub",
-                "Android Studio"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "TypeScript",
+                    "badge": "https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React Native",
+                    "badge": "https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "StyleSheet",
+                    "badge": "https://img.shields.io/badge/StyleSheet-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Expo",
+                    "badge": "https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Docker",
+                    "badge": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://github.com/greatxrider/nucamp-react-native-challenges/tree/main/Challenges/nucampfire",
             "github_link": "https://github.com/greatxrider/nucamp-react-native-challenges/tree/main/Challenges/nucampfire",
@@ -78,22 +169,70 @@
             "project_name": "My Personal Portfolio (The IT Guy)",
             "description": "This is my main portfolio website. Showcasing my skills. It's on Full Stack to practice my skills.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "TypeScript",
-                "Bootstrap",
-                "React",
-                "Redux",
-                "NodeJS",
-                "ExpressJS",
-                "MongoDB",
-                "Mongoose",
-                "Vite",
-                "Google Cloud",
-                "FireBase",
-                "Docker",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "TypeScript",
+                    "badge": "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "MongoDB",
+                    "badge": "https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Mongoose",
+                    "badge": "https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Docker",
+                    "badge": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://github.com/greatxrider/my-portfolio",
             "github_link": "https://github.com/greatxrider/my-portfolio",
@@ -111,22 +250,70 @@
             "project_name": "Yvonne's Portfolio",
             "description": "This is Yvonne's personal portfolio website, showcasing her projects, experience, and skills.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "TypeScript",
-                "Bootstrap",
-                "React",
-                "Redux",
-                "NodeJS",
-                "ExpressJS",
-                "MongoDB",
-                "Mongoose",
-                "Vite",
-                "Google Cloud",
-                "FireBase",
-                "Docker",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "TypeScript",
+                    "badge": "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "MongoDB",
+                    "badge": "https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Mongoose",
+                    "badge": "https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Docker",
+                    "badge": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://github.com/greatxrider/yvonne-portfolio/tree/main/client",
             "github_link": "https://github.com/greatxrider/yvonne-portfolio/tree/main/client",
@@ -141,23 +328,70 @@
             "project_name": "Bookify Web App",
             "description": "Bookify is a web application that allows users to discover, manage, and interact with books online. This repository contains the source code for the Bookify website.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "TypeScript",
-                "Bootstrap",
-                "React",
-                "Redux",
-                "NodeJS",
-                "ExpressJS",
-                "MongoDB",
-                "Mongoose",
-                "Vite",
-                "Google Cloud",
-                "FireBase",
-                "Docker",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "TypeScript",
+                    "badge": "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "MongoDB",
+                    "badge": "https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Mongoose",
+                    "badge": "https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Docker",
+                    "badge": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://github.com/greatxrider/vite-book-ecomm-app",
             "github_link": "https://github.com/greatxrider/vite-book-ecomm-app",
@@ -173,15 +407,42 @@
             "project_name": "Food Recipe App",
             "description": "Food App is a simple web application that displays various recipes, including their ingredients, preparation steps, and images. This project aims to provide an easy-to-use interface for users to explore and learn about different recipes from around the world.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "SASS",
-                "JavaScript",
-                "Boostrap",
-                "Vercel",
-                "Git",
-                "FireBase",
-                "Google Cloud"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "SASS",
+                    "badge": "https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://jeph-food-recipt-web-project.web.app",
             "github_link": "https://github.com/greatxrider/food-recipe-app",
@@ -196,15 +457,42 @@
             "project_name": "News App",
             "description": "News App is a simple web application that fetches and displays news articles using the News API. This project aims to provide an easy-to-use interface for users to stay updated with the latest news in the science category from the US.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "SASS",
-                "JavaScript",
-                "Boostrap",
-                "Vercel",
-                "Git",
-                "FireBase",
-                "Google Cloud"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "SASS",
+                    "badge": "https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Bootstrap",
+                    "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Firebase",
+                    "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Google Cloud",
+                    "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://newsletterinternational.web.app",
             "github_link": "https://github.com/greatxrider/News-App",
@@ -220,11 +508,26 @@
             "project_name": "Random Quote Generator",
             "description": "This project is a simple web application that generates random quotes each time a button is clicked. It's built using basic JavaScript concepts including variables, loops, conditionals, and object literals. The goal is to create an interactive portfolio piece showcasing foundational JavaScript skills.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://random-quote-generator-blue-delta.vercel.app/",
             "github_link": "https://github.com/greatxrider/random-quote-generator",
@@ -240,11 +543,26 @@
             "project_name": "Student Directory",
             "description": "This project implements pagination and search functionality for a student directory web application using JavaScript. Users can navigate through pages of student data and search for specific students by name.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://student-directory-app.vercel.app/",
             "github_link": "https://github.com/greatxrider/student-directory-project",
@@ -259,11 +577,26 @@
             "project_name": "RSVP Web App",
             "description": "This is a simple RSVP web application built using vanilla JavaScript, HTML, and CSS. It allows users to manage a guest list for an event.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://rvsp-webapp-vanilla-javascript.vercel.app/",
             "github_link": "https://github.com/greatxrider/rvsp-webapp-vanilla-javascript",
@@ -276,11 +609,26 @@
             "project_name": "Phrase Hunter",
             "description": "This is a phrase hunter game. It uses JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase, which a player tries to guess, by clicking letters on an onscreen keyboard.",
             "technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://phrase-hunter-game-app.vercel.app/",
             "github_link": "https://github.com/greatxrider/phrase-hunter-project",
@@ -295,11 +643,26 @@
             "project_name": "Dynamic Application Form",
             "description": "This project enhances an interactive form with various JavaScript functionalities, such as dynamic display of form fields, real-time validation, and updating the UI based on user input.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://interactive-form-two.vercel.app/",
             "github_link": "https://github.com/greatxrider/interactive-form-project",
@@ -314,11 +677,26 @@
             "project_name": "Awesome Startup Employee Directory",
             "description": "The Awesome Startup Employee Directory is a web application designed to help remote employees share contact information efficiently. This project showcases the ability to communicate with APIs to fetch and display dynamic content without relying on frameworks, libraries, or plugins.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://awesome-startup-employee-directory-app.vercel.app",
             "github_link": "https://github.com/greatxrider/awesome-startup-employee-directory-project",
@@ -334,12 +712,26 @@
             "project_name": "Flags Explorer",
             "description": "Flag Explorer is a simple web application that displays information about different countries, including their flags, population, region, and capital city. This project aims to provide an easy-to-use interface for users to explore and learn about various countries around the world.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "REST Countries API",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://flag-explorer-app.vercel.app",
             "github_link": "https://github.com/greatxrider/flag-explorer-app",
@@ -355,11 +747,26 @@
             "project_name": "People From Space",
             "description": "People From Space App is a simple web application that displays the number of people currently in space. It provides a button to view detailed information about each person in space. The application uses HTML, CSS, and JavaScript to fetch and display the data.",
             "technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://number-multiplier-express-node.vercel.app",
             "github_link": "https://github.com/greatxrider/people-from-space-app",
@@ -373,14 +780,38 @@
             "project_name": "Flash Cards App",
             "description": "This application allows users to view flash cards. It includes routes for the main page, about page, and projects page. The app uses Pug as the template engine and serves static files from the public directory.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Pug",
-                "NodeJS",
-                "ExpressJS",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Pug",
+                    "badge": "https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://flash-card-app-beta.vercel.app",
             "github_link": "https://github.com/greatxrider/flash-card-app",
@@ -395,13 +826,38 @@
             "project_name": "Number Multiplier",
             "description": "A number multiplier app using Node.js, Express, and Pug for templating.",
             "technologies": [
-                "HTML",
-                "CSS",
-                "JavaScript",
-                "NodeJS",
-                "ExpressJS",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Pug",
+                    "badge": "https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://github.com/greatxrider/number-multiplier-express",
             "github_link": "https://number-multiplier-express-node.vercel.app/",
@@ -414,11 +870,26 @@
             "project_name": "Adventure Quest",
             "description": "Fantasy Adventure Quest is a web-based game where users can choose their heroes and target enemies. The game features various hero classes, each with unique combat styles.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://fantasy-adventure-quest-checkbox-dom-pk4hvwag2.vercel.app/",
             "github_link": "https://github.com/greatxrider/fantasy-adventure-quest-checkbox-dom-man",
@@ -432,11 +903,26 @@
             "project_name": "Cat Image Generator App",
             "description": "Cat Explorer is a fun web application that generates random cat images with a single click. Unleash your imagination and create purr-fectly unique cat images effortlessly!",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://cat-image-generator-app.vercel.app/",
             "github_link": "https://github.com/greatxrider/cat-image-generator",
@@ -451,11 +937,26 @@
             "project_name": "Dog and Cats Dynamic Select Menus",
             "description": "This project implements a dynamic select menu for choosing animals and their respective breeds. The menu updates the available breed options based on the selected animal.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vercel",
+                    "badge": "https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                }
             ],
             "live_link": "https://dogs-cats-dynamic-select-menu.vercel.app",
             "github_link": "https://github.com/greatxrider/dynamic-select-menu-project",
@@ -469,18 +970,102 @@
             "id": 21,
             "project_name": "To-Do List Redux",
             "description": "This is a simple Todo List application built using Vanilla JavaScript. It allows users to add, remove, and toggle tasks on their list.",
-            "technologies": [
-                "HTML5",
-                "CSS3",
-                "JavaScript",
-                "Vercel",
-                "Git"
-            ],
+            "technologies": [],
             "live_link": "https://todo-list-app-mu-blush.vercel.app/",
             "github_link": "https://github.com/greatxrider/todolist-vanilla-javasript",
             "image_urls": [
                 "/img/projects/toDoList/td1.png"
             ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "CSS",
+            "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "JavaScript",
+            "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Bootstrap",
+            "badge": "https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Tailwind",
+            "badge": "https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "React",
+            "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "React Native",
+            "badge": "https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Redux",
+            "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Node.js",
+            "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Express",
+            "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "MongoDB",
+            "badge": "https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Mongoose",
+            "badge": "https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Sequelize",
+            "badge": "https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Git",
+            "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "GitHub",
+            "badge": "https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Pug",
+            "badge": "https://img.shields.io/badge/Pug-A86454?logo=pug&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Figma",
+            "badge": "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Postman",
+            "badge": "https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Expo",
+            "badge": "https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Android Studio",
+            "badge": "https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Vite",
+            "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "VS Code",
+            "badge": "https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge&labelColor=#333333"
         }
     ]
 }

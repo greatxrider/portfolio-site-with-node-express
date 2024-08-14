@@ -567,3 +567,14 @@ footer.footer {
   bottom: 0;
   width: 100%;
 }
+
+footer p {
+  color: black;
+}
+
+.technology-badge {
+  margin-right: 10px;
+  /* Adds space to the right of each badge */
+  margin-bottom: 10px;
+  /* Adds space to the bottom, useful if badges wrap to a new line */
+}

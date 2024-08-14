@@ -1,10 +1,12 @@
 extends layout.pug
 
 block content
+
   nav.nav
     a(href='/')
       span &larr;
       |  Back
+
   article.portfolio-projects
     .inner-wrapper.flex-row-wrap.two-col
       .project-info-box.box
@@ -12,9 +14,8 @@ block content
         p #{project.description}
       .project-tech-links-box.box
         h6 Technologies
-        ul
-          each technology in project.technologies 
-            li #{technology}
+        each technology in project.technologies
+          img.technology-badge(src=technology.badge, alt=technology.name)
         a.btn-link(href=`${project.live_link}`) Live Demo
         a.btn-link(href=`${project.github_link}`) GitHub Repo
     .project-img-box.box

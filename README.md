@@ -79,6 +79,10 @@ project-root/
     • Background Color: The background color of the landing page was changed to improve visual appeal.
     • Font Types: Custom fonts were used to enhance readability and aesthetics.
     • Title and Headers Position: The position of the title and headers was adjusted for better alignment and visual hierarchy.
+    • Added a footer to the website.
+    • Changed the color of buttons and added animated effects to elements.
+    • Added icons for skills and technologies.
+    • Included work experience details in the about section.
 
 ## License
 
