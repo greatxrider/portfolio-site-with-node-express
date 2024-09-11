@@ -997,6 +997,363 @@
             "image_urls": [
                 "/img/projects/toDoList/td1.png"
             ]
+        },
+        {
+            "id": 22,
+            "project_name": "Front-End Course Directory",
+            "description": "This project is a simple React application demonstrating the use of React Router for navigation. It includes various components and routes to showcase different features of a typical web application.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Netlify",
+                    "badge": "https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=white&style=for-the-badge&labelColor=#00C7B7"
+                }
+            ],
+            "live_link": "https://front-end-course-directory-app.netlify.app/",
+            "github_link": "https://github.com/greatxrider/front-end-course-directory",
+            "image_urls": [
+                "/img/projects/New/frontEndCourseDir/fecd1.png",
+                "/img/projects/New/frontEndCourseDir/fecd2.png",
+                "/img/projects/New/frontEndCourseDir/fecd3.png"
+            ]
+        },
+        {
+            "id": 23,
+            "project_name": "The Scoreboard App",
+            "description": "The Scoreboard App is a simple React application that allows users to keep track of player scores. Users can add new players, remove existing players, and update their scores. The app dynamically calculates and displays the highest score among all players.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Netlify",
+                    "badge": "https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=white&style=for-the-badge&labelColor=#00C7B7"
+                }
+            ],
+            "live_link": "https://sports-scoreboard-app.netlify.app",
+            "github_link": "https://github.com/greatxrider/scoreboard-app",
+            "image_urls": [
+                "/img/projects/New/scoreBoard/sb1.png",
+                "/img/projects/New/scoreBoard/sb2.png",
+                "/img/projects/New/scoreBoard/sb3.png"
+            ]
+        },
+        {
+            "id": 24,
+            "project_name": "Grocery List App",
+            "description": "A simple and interactive grocery list application built with React.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Netlify",
+                    "badge": "https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=white&style=for-the-badge&labelColor=#00C7B7"
+                }
+            ],
+            "live_link": "https://grocery-cart-list-app.netlify.app/",
+            "github_link": "https://github.com/greatxrider/grocery-list-app",
+            "image_urls": [
+                "/img/projects/New/groceryList/gl1.png"
+            ]
+        },
+        {
+            "id": 25,
+            "project_name": "Gif Search",
+            "description": "A simple React application to search and display GIFs using the Giphy API. This application allows users to search for GIFs using the Giphy API. It displays a list of GIFs based on the search query entered by the user.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Netlify",
+                    "badge": "https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=white&style=for-the-badge&labelColor=#00C7B7"
+                }
+            ],
+            "live_link": "https://giphy-list-app.netlify.app/",
+            "github_link": "https://github.com/greatxrider/giphy-list-app",
+            "image_urls": [
+                "/img/projects/New/gifSearch/gs1.png",
+                "/img/projects/New/gifSearch/gs2.png",
+                "/img/projects/New/gifSearch/gs3.png"
+            ]
+        },
+        {
+            "id": 26,
+            "project_name": "React Image Gallery App",
+            "description": "The React Image Gallery App is a single-page application built using the popular React library. This project showcases an image gallery by fetching and displaying images from the Flickr API. The application is designed to be fast, modular, and responsive, following best practices in modern web development.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Netlify",
+                    "badge": "https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=white&style=for-the-badge&labelColor=#00C7B7"
+                }
+            ],
+            "live_link": "https://photo-explorer-image-gallery.netlify.app/dogs",
+            "github_link": "https://github.com/greatxrider/react-gallery-app",
+            "image_urls": [
+                "/img/projects/New/photoExplorer/pe1.png",
+                "/img/projects/New/photoExplorer/pe2.png",
+                "/img/projects/New/photoExplorer/pe3.png"
+            ]
+        },
+        {
+            "id": 27,
+            "project_name": "Book Library Manager App",
+            "description": "The Book Library Manager App is a web application developed to help manage the collection of books in a library. The application provides an intuitive interface to list, add, update, and delete books from the library's catalog. It leverages a pre-existing SQLite database for data storage and utilizes modern JavaScript frameworks and libraries to create a dynamic and interactive user experience.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Sequelize",
+                    "badge": "https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=003E6B"
+                },
+                {
+                    "name": "SQLite",
+                    "badge": "https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57"
+                },
+                {
+                    "name": "Railway",
+                    "badge": "https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge&labelColor=4B4F5A"
+                }
+            ],
+            "live_link": "https://booksmanager.up.railway.app/books/page/1",
+            "github_link": "https://github.com/greatxrider/books-library-manager-app",
+            "image_urls": [
+                "/img/projects/New/bookManager/bm1.png",
+                "/img/projects/New/bookManager/bm2.png",
+                "/img/projects/New/bookManager/bm3.png",
+                "/img/projects/New/bookManager/bm4.png"
+            ]
+        },
+        {
+            "id": 28,
+            "project_name": "EduManage a full stack course management app",
+            "description": "This project is a Full Stack Course Management Application that allows users to view, create, update, and delete courses. It is built using a REST API for the backend and a React-based client interface for the frontend.",
+            "technologies": [
+                {
+                    "name": "HTML5",
+                    "badge": "https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "CSS3",
+                    "badge": "https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "JavaScript",
+                    "badge": "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "React",
+                    "badge": "https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Redux",
+                    "badge": "https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "NodeJS",
+                    "badge": "https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "ExpressJS",
+                    "badge": "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Git",
+                    "badge": "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Vite",
+                    "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+                },
+                {
+                    "name": "Sequelize",
+                    "badge": "https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge&labelColor=003E6B"
+                },
+                {
+                    "name": "SQLite",
+                    "badge": "https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57"
+                },
+                {
+                    "name": "Railway",
+                    "badge": "https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge&labelColor=4B4F5A"
+                }
+            ],
+            "live_link": "https://edumanage.up.railway.app/courses",
+            "github_link": "https://github.com/greatxrider/eduManage-full-stack-app",
+            "image_urls": [
+                "/img/projects/New/eduManage/em1.png",
+                "/img/projects/New/eduManage/em2.png",
+                "/img/projects/New/eduManage/em3.png",
+                "/img/projects/New/eduManage/em4.png",
+                "/img/projects/New/eduManage/em5.png",
+                "/img/projects/New/eduManage/em6.png",
+                "/img/projects/New/eduManage/em7.png"
+            ]
         }
     ],
     "skills": [
@@ -1083,6 +1440,42 @@
         {
             "name": "Vite",
             "badge": "https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "TypeScript",
+            "badge": "https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Webpack",
+            "badge": "https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "SASS",
+            "badge": "https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Google Cloud",
+            "badge": "https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Firebase",
+            "badge": "https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Docker",
+            "badge": "https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&labelColor=#333333"
+        },
+        {
+            "name": "Netlify",
+            "badge": "https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=white&style=for-the-badge&labelColor=#00C7B7"
+        },
+        {
+            "name": "SQLite",
+            "badge": "https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge&labelColor=003B57"
+        },
+        {
+            "name": "Railway",
+            "badge": "https://img.shields.io/badge/Railway-000000?logo=railway&logoColor=white&style=for-the-badge&labelColor=4B4F5A"
         },
         {
             "name": "VS Code",
